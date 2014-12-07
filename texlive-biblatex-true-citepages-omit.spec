@@ -6,7 +6,7 @@
 # catalog-version 1.0.0
 Name:		texlive-biblatex-true-citepages-omit
 Version:	1.0.0
-Release:	2
+Release:	3
 Summary:	Correction of some limitation of the citepages=omit option of biblatex styles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-true-citepages-omit
