@@ -1,12 +1,6 @@
-# revision 33305
-# category Package
-# catalog-ctan /macros/latex/contrib/biblatex-contrib/biblatex-true-citepages-omit
-# catalog-date 2014-04-08 11:06:38 +0200
-# catalog-license lppl
-# catalog-version 1.0.0
 Name:		texlive-biblatex-true-citepages-omit
-Version:	1.0.0
-Release:	4
+Version:	2.0.0
+Release:	1
 Summary:	Correction of some limitation of the citepages=omit option of biblatex styles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-true-citepages-omit
@@ -34,16 +28,8 @@ text]{key}. The package correct this problem.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/biblatex-true-citepages-omit/biblatex-true-citepages-omit.sty
-%doc %{_texmfdistdir}/doc/latex/biblatex-true-citepages-omit/README
-%doc %{_texmfdistdir}/doc/latex/biblatex-true-citepages-omit/biblatex-true-citepages-omit.bib
-%doc %{_texmfdistdir}/doc/latex/biblatex-true-citepages-omit/biblatex-true-citepages-omit.pdf
-%doc %{_texmfdistdir}/doc/latex/biblatex-true-citepages-omit/biblatex-true-citepages-omit.tex
-%doc %{_texmfdistdir}/doc/latex/biblatex-true-citepages-omit/exemple.bib
-%doc %{_texmfdistdir}/doc/latex/biblatex-true-citepages-omit/exemple.pdf
-%doc %{_texmfdistdir}/doc/latex/biblatex-true-citepages-omit/exemple.tex
-%doc %{_texmfdistdir}/doc/latex/biblatex-true-citepages-omit/latexmkrc
-%doc %{_texmfdistdir}/doc/latex/biblatex-true-citepages-omit/makefile
+%{_texmfdistdir}/tex/latex/biblatex-true-citepages-omit
+%doc %{_texmfdistdir}/doc/latex/biblatex-true-citepages-omit
 
 #-----------------------------------------------------------------------
 %prep
