@@ -3,7 +3,7 @@ Version:	44653
 Release:	2
 Summary:	Correction of some limitation of the citepages=omit option of biblatex styles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-true-citepages-omit
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-true-citepages-omit
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-true-citepages-omit.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-true-citepages-omit.doc.r%{version}.tar.xz
